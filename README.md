@@ -1,4 +1,4 @@
-front-end-dev-test
+Frontend Developer Test
 ==================
 
 Instructions for Front End Dev Test
