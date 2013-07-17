@@ -4,7 +4,7 @@ Frontend Developer Test
 Instructions for Front End Dev Test
 
 Clone/download the test from:
-https://github.com/jasonblancas/front-end-dev-test
+https://github.com/dzap/front-end-dev-test
 
 Code the included mockup(psd and jpg versions included). Use the index.html we've included.
 There are errors in the html, and in the javascript file we started for you. Fix them.
