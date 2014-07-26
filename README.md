@@ -1,10 +1,8 @@
 DZAP Front-end Developer Test 
 =============================
 
-Instructions
-
 Please clone/download the test from the following location:
-https://github.com/dzap/front-end-dev-test
+- https://github.com/dzap/front-end-dev-test
 
 Please develop the provided website mockup using HTML, CSS and Javascript. A layered photoshop file has been provided. Please contact us if any instruction is unclear.
 
