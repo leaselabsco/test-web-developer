@@ -1,20 +1,37 @@
 [
     {
-        'username': 'Tasha Owens',
-        'president': 'Bill Clinton',
-        'quote': 'We must teach our children to resolve their conflicts with words, not weapons.',
-        'timestamp': 1406257300
+        'name': "Vito Corleone",
+        'quote': "I'm gonna make him an offer he can't refuse.",
+        'timestamp': 69379200
     },
     {
-        'username': 'Jessica Howard',
-        'president': 'Ronald Reagan',
-        'quote': 'The best minds are not in government. If any were, business would hire them away.',
-        'timestamp': 1402573200
+        'name': "Jessica Rabbit",
+        'quote': "I'm not bad. I'm just drawn that way.",
+        'timestamp': 583113600
     },
     {
-        'username': 'Wayne Patterson',
-        'president': 'Abraham Lincoln',
-        'quote': 'Those who deny freedom to others, deserve it not for themselves; and, under a just God, can not long retain it.',
-        'timestamp': 1403370200
+        'name': "Martin Brody",
+        'quote': "You're gonna need a bigger boat.",
+        'timestamp': 172281600
+    },
+    {
+        'name': "The Terminator",
+        'quote': "Hasta la vista, baby.",
+        'timestamp': 678326400
+    },
+    {
+        'name': "Jack Dawson",
+        'quote': "I'm the king of the world!",
+        'timestamp': 882489600
+    },
+    {
+        'name': "Terry Benedict",
+        'quote': "Congratulations... You're a dead man!",
+        'timestamp': 1007683200
+    },
+    {
+        'name': "The Joker",
+        'quote': "Why so serious..?",
+        'timestamp': 1215993600
     }
 ]
