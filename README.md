@@ -25,4 +25,4 @@ What We're Interested In:
 - Usability
 
 Completion and Delivery:
-When complete, please ZIP up your files and deliver to us via email. Thank you.
+- When complete, please ZIP up your files and deliver to us via email. Thank you.
