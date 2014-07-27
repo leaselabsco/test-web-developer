@@ -23,4 +23,4 @@ Please develop the provided website mockup using HTML, CSS and Javascript. A lay
 - Usability
 
 **Completion and Delivery**
-- When complete, please ZIP up your files and deliver to us via email. Thank you.
+- When complete, please ZIP up your files and deliver as an email attachment to edrick@dzap.net. Thank you.
