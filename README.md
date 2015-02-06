@@ -1,4 +1,4 @@
-DZAP Front-end Developer Test
+DZAP Front-End Web Developer Test
 =============================
 
 **Please clone/download the test from the following location**
