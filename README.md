@@ -2,7 +2,7 @@ DZAP Front-End Web Developer Test
 =============================
 
 **Please clone/download the test from the following location**
-+ https://github.com/dzap/front-end-dev-test
++ https://github.com/dzap/test-web-developer
 
 Please markup the provided website PSD using HTML, CSS and Javascript. A layered Photoshop file has been provided. Please contact edrick@dzap.net if any instruction is unclear. Thank you!
 
