@@ -14,7 +14,7 @@ Please markup the provided website PSD using HTML, CSS and Javascript. A layered
     + Please order the comments beginning with the most recent.
     + For tablet sizes only (768px to 1024px), please omit the comments section, and have each remaining sibling column span 50% of the parent container.
 + For the large image area, please build a simple fade-in, fade-out slideshow with Javascript. Please have it automatically rotate through the provided slideshow images. You may use a library such as jQuery. You may **not** use a prebuilt slideshow plugin like bxSlider, Cycle, or Slick.
-+ Please use your judgement to make this page responsive. It doesn’t need to be anything fancy, just an appropriately styled mobile and desktop version. A single breakpoint will suffice. You may use a framework if you like, but extra consideration will be given if you can example your command of simple media queries. Bonus points for exampling a "mobile first" approach.
++ Please use your judgement to make this page responsive. It doesn’t need to be anything fancy, just appropriately styled mobile and desktop versions. You may use a framework if you like, but extra consideration will be given if you can example your command of simple media queries. Bonus points for exampling a "mobile first" approach.
 + Please ensure the page is functional in IE9+. Pixel perfection is not required, but please ensure the page is functional.
 
 **What We're Interested In**
