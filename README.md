@@ -7,7 +7,7 @@ LeaseLabs/DZAP Front-End Web Developer Test
 Please markup the provided website PSD using HTML, CSS and Javascript. A layered Photoshop file has been provided. Please contact us if any instruction is unclear. Thank you!
 
 **Rules and Requirements**
-+ You may use any html/css/js library or framework, except in a few special cases which are detailed below. However keep in mind we are more interested in simplicity, and your command of the front-end development languages, than libraries and frameworks.
++ You may use any html/css/js library or framework, except for dealing with the image object which is detailed below. Please keep in mind we are more interested in simplicity, and your command of the front-end development languages, than libraries and frameworks.
 + Please use your judgement to make this page responsive. It doesn’t need to be anything fancy, just appropriately styled mobile and desktop versions. Simpler versions of elements on mobile is ok. 
 + You may use a framework if you like, but extra consideration will be given if you can example your command of simple media queries. Bonus points for exampling a "mobile first" approach.
 + Pixel perfection is not expected. We are more interested in conveying the feel of the design.
