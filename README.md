@@ -27,8 +27,9 @@ Please markup the provided website PSD using HTML, CSS and Javascript. A layered
 + The use of SASS compiled down to CSS
 + The use of Gulp / NPM to define packages and automate the compilation of SASS
 
-**Completion and Delivery**
-+ When complete, please ZIP up your files and deliver as an email attachment to submissions@dzap.net. Thank you.
+**Completion and Delivery**  
+You can clone or fork this repo and, when complete, email a link to submissions@dzap.net.  
+Thank you.
 
 **MIT License - Open Source**
 We have created this test as a simple assessment for front-end developers. If anyone else finds this useful, it's available for you to use anyway you like.
