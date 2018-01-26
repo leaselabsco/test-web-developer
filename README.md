@@ -1,4 +1,4 @@
-LeaseLabs/DZAP Front-End Web Developer Test
+LeaseLabs Front-End Web Developer Test
 =============================
 
 **Please clone/download the test from the following location**
