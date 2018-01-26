@@ -2,7 +2,7 @@ LeaseLabs Front-End Web Developer Test
 =============================
 
 **Please clone/download the test from the following location**
-+ https://github.com/dzap/test-web-developer
++ https://github.com/leaselabsco/test-web-developer
 
 Please markup the provided website PSD using HTML, CSS and Javascript. A layered Photoshop file has been provided. Please contact us if any instruction is unclear. Thank you!
 
