@@ -22,7 +22,7 @@ Please markup the provided design using HTML, CSS and Javascript. A layered Phot
 + Attention to Detail
 + Usability
 
-**Bonus Points*** 
+**Bonus Points**
 + The use of SASS compiled down to CSS
 + The use of a build tool to automate the compilation of SASS and / or minification of JS or CSS.
 
