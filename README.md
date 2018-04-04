@@ -27,7 +27,7 @@ Please markup the provided design using HTML, CSS and Javascript. A layered Phot
 + The use of a build tool to automate the compilation of SASS and / or minification of JS or CSS.
 
 **Completion and Delivery**  
-You can clone or fork this repo. When complete, email a link to submissions@dzap.net.
+You can clone or fork this repo. When complete, email a link to submissions@leaselabs.com
 
 **MIT License - Open Source**
 We have created this test as a simple assessment for front-end developers. If anyone else finds this useful, it's available for you to use anyway you like.
