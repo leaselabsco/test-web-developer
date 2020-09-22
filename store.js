@@ -1,4 +1,7 @@
-var images = {
+// Use this data to create your store
+// you do not have to use this file, this is just so you don't have to recreate the data itself
+
+let images = {
 	man: {
 		heading: 'Man Image',
 		description: 'Image of a man.',
