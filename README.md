@@ -1,4 +1,4 @@
-LeaseLabs Front-End Web Developer Test
+LeaseLabs by RealPage Front-End Web Developer Test
 =============================
 
 **Please clone or fork the test from this repo**
