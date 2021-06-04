@@ -29,7 +29,7 @@ Please build the provided design using Vuejs & Vuex. A layered Photoshop file an
 + Leveraged use of the store outside of just for the images
 
 **Completion and Delivery**  
-You can clone or fork this repo. When complete, email a link to Jason.Caruso@RealPage.com & Ryan.Pearson@RealPage.com
+You can clone or fork this repo. When complete, email a link to Jason.Caruso@RealPage.com
 
 **MIT License - Open Source**
 We created this test as a simple assessment for Vuejs developers. If anyone else finds this useful, it's available for you to use anyway you like.
